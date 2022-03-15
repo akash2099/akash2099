@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Manna</h1>
-<h4 align="center">Enthusiastic software developer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Motivated to learn, grow and excel as a developer.</h3>
-
+<p align="center">Enthusiastic software developer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Motivated to learn, grow and excel as a developer.</p>
+<p align="center">Checkout my android apps at <a href="https://play.google.com/store/apps/dev?id=6143832895811156484" target="_blank" rel="noreferrer">Play Store</a</p>
+  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akash2099&label=Profile%20views&color=0e75b6&style=flat" alt="akash2099" /> </p>
 
 <h3 align="center">Connect with me</h3>
