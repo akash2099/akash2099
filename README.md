@@ -6,12 +6,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akash2099&label=Profile%20views&color=0e75b6&style=flat" alt="akash2099" /> </p>
 
 <h3 align="center">Skills</h3>
-<p align="center">* Android App Development *</p>
-<p align="center">* Competitive Programming *</p>
-<p align="center">* Machine Learning *</p>
-<p align="center">* Amazon Web Services *</p>
-<p align="center">* Desktop App Development *</p>
-<p align="center">* Plugin Development *</p>
+<p align="center">
+Android App Development || Competitive Programming || Machine Learning || Amazon Web Services || Desktop App Development || Plugin Development
+</p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
